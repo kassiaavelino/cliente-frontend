@@ -16,7 +16,7 @@ export default class Carrinho extends Component{
                     </button>
                 </div>
                 <div className="conteudo-carrinho">
-                    <p>CONTEÚDO</p>
+                    <p>CARRINHO</p>
                 </div>
                 
             </div>
