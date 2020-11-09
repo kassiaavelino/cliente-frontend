@@ -1,0 +1,13 @@
+.register-page{
+    padding: 10px 20px;
+    text-align: center;
+    justify-content: space-around;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.form{
+    padding: 9px;
+    background: rgba(242, 241, 170, 0.5);
+    border-radius: 20px;
+}

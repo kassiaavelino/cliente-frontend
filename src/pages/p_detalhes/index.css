@@ -1,0 +1,30 @@
+.produtos-info{
+    height: 100%;
+    text-align: center;
+    /* justify-content: space-around; */
+    padding: 10px 20px;
+    padding-bottom: 66px;
+}
+.media-detalhe{
+    margin: 0 40px;    
+    margin-bottom: -56px;
+}
+.media-body{
+    margin: 20px;
+    margin-bottom: -10px;
+    padding: 40px;
+    background: rgba(242, 241, 170, 0.5);
+    border-radius: 25px;
+}
+.descricao{
+    width: 100%;
+    padding: 10px 14%;
+    justify-content: space-around;
+    text-align: justify;
+
+}
+.volta-carrinho{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 55px;
+}

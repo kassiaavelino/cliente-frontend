@@ -1,0 +1,9 @@
+.carrinho{
+    height: 100vh;
+}
+.conteudo-carrinho{
+    background: rgba(242, 241, 170, 0.5);
+    border-radius: 25px;
+    margin:10px 60px;
+    padding: 20px;
+}
