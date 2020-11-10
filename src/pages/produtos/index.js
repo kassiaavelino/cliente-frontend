@@ -40,7 +40,7 @@ export default class Produtos extends Component {
                 <div class="card">
                     <p className="image"><img className="itens" alt="img" src={Item1} /></p>
                     <div class="card-body">
-                        <h5 class="card-title">{produtos.p_nome}</h5>
+                        <h5 class="card-title">Carregando...{produtos.p_nome}</h5>
                         <p class="card-text">R$ {produtos.p_precovenda}</p>
                         <p> <Link to={`/detalhes-produto/${produtos.p_id}`}> Mais Informações </Link> </p>
                     </div>
