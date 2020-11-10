@@ -35,7 +35,6 @@ export default class Produtos extends Component {
                 </div>
                 <div>
                 <p className="carrinho-img"><Link to='/carrinho'><img className="logo" alt="logo" src={Cart}/></Link></p>
-                <h1>Carregando produtos...</h1>
                 {produtos.map((produtos, index) =>
                 <div className="article">
                 <div class="card">
