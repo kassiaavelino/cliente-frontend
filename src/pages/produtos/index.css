@@ -9,7 +9,7 @@
     justify-content: center;
 }
 .products-main{
-    height: 100vh;
+    height: 100%;
     text-align: center;
     justify-content: space-around;
     padding: 10px 20px;
