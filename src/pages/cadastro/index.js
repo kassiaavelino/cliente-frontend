@@ -48,7 +48,7 @@ exibeErro() {
               <div className="navbar">
                     <h1><Link to="/"><img className="logo" alt="logo" src={Logo}/></Link></h1>
                     <button className="button">
-                        <Link to='/login'>LOGIN</Link>
+                        <Link to='/login'>Login</Link>
                     </button>
                 </div>
                 
@@ -106,7 +106,7 @@ exibeErro() {
                              class="form-control" 
                              id="inputPassword4"
                              name="senha"
-                             placeholder="Senha"
+                             placeholder="Senha (obs: min 6 digitos)"
                              minLength="3"
                              maxLength="100"
                              required

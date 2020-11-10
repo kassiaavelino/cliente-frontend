@@ -24,7 +24,7 @@ export default class Detalhes extends Component {
 
  
     render() {
-        const { produtos, index } = this.state;
+        const { produtos } = this.state;
  
         return (
             <div className="produtos-info">
